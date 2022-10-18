@@ -1,0 +1,30 @@
+.counter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px auto;
+}
+
+.counter-state {
+    width: 30px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    margin: 10px 20px;
+}
+
+.counter-button {
+    padding: 10px 30px;
+    background: blue;
+    border: 1px solid darkblue;
+    cursor: pointer;
+}
+
+.counter-button:hover {
+    background: darkblue;
+}
+
+.counter-button:active {
+    background: blue;
+}
+
