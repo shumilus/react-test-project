@@ -1,0 +1,11 @@
+.filter {
+    display: flex;
+    width: 1084px;
+}
+
+.filter-line {
+    height: 1px;
+    left: 115px;
+    top: 522px;
+    border: 1px solid #080707;
+}
